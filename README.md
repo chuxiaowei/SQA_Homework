@@ -1,3 +1,0 @@
-SQA_Homework
-============
-home
